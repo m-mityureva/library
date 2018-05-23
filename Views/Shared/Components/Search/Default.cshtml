@@ -1,0 +1,11 @@
+﻿<div class="input-group mb-3">
+    <input class="form-control" placeholder="Find" value="@ViewBag.CurrentFilter" />
+    <div class="input-group-append">
+        <a class="btn btn-secondary" role="button"
+                asp-action="List"
+                asp-controller="Book"
+                asp-route-search="asp">
+            <i class="fa fa-search"></i>
+        </a>
+    </div>
+</div>

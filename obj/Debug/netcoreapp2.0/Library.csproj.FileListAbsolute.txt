@@ -1,0 +1,11 @@
+C:\Users\m.mityureva\Source\Repos\Library\Library\bin\Debug\netcoreapp2.0\Library.deps.json
+C:\Users\m.mityureva\Source\Repos\Library\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.json
+C:\Users\m.mityureva\Source\Repos\Library\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.dev.json
+C:\Users\m.mityureva\Source\Repos\Library\Library\bin\Debug\netcoreapp2.0\Library.dll
+C:\Users\m.mityureva\Source\Repos\Library\Library\bin\Debug\netcoreapp2.0\Library.pdb
+C:\Users\m.mityureva\Source\Repos\Library\Library\obj\Debug\netcoreapp2.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\m.mityureva\Source\Repos\Library\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfoInputs.cache
+C:\Users\m.mityureva\Source\Repos\Library\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfo.cs
+C:\Users\m.mityureva\Source\Repos\Library\Library\obj\Debug\netcoreapp2.0\Library.dll
+C:\Users\m.mityureva\Source\Repos\Library\Library\obj\Debug\netcoreapp2.0\Library.pdb
+C:\Users\m.mityureva\Source\Repos\Library\Library\obj\Debug\netcoreapp2.0\Library.csprojResolveAssemblyReference.cache

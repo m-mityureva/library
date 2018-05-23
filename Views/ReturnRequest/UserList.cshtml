@@ -1,0 +1,19 @@
+﻿@model IEnumerable<ReturnRequest>
+
+@if (Model.Count() > 0)
+{
+    <table class="table table-bordered table-striped">
+        <tr><th>Book</th><th>Quantity</th></tr>
+        @foreach (ReturnRequest r in Model)
+        {
+            <tr>
+                <td>@r.UserBook.Book.Title</td>
+                <td>@r.Quantity</td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <div class="text-center">No Return requests</div>
+}
